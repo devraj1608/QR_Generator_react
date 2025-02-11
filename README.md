@@ -1,7 +1,7 @@
 # **QR Code Generator (React)**
 A **simple, responsive, and dark mode-friendly** QR Code Generator built using **React.js**. This project allows users to generate a QR code from any text or URL and download it as an image.
 
-![QR Generator Preview](./assets/qr-generator ss.png)  
+
 
 
 ---
